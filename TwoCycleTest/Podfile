@@ -1,0 +1,9 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'TwoCycleTest' do
+   pod 'SDWebImage'                                  # 图片三方框架
+   pod 'NerdyUI'                                   # macro+chain
+   pod 'Masonry'                                   # 自动布局
+
+end
